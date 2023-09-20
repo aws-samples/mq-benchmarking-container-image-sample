@@ -2,7 +2,7 @@
 
 ## Overview
 
-This container repository provides you with flexibility to create your image for benchmarking both on desktop and also on Amazon ECR. You can use your built/created image as `container_repo_url` [here](https://github.com/moatiq27/amazonmq-benchmarking-sample/). 
+This container repository provides you with flexibility to create your image for benchmarking both on desktop and also on Amazon ECR. You can use your built/created image as `container_repo_url` [here](https://github.com/aws-samples/mq-benchmarking-sample). 
 
 This repository applies to only open wire protocol. If you need to use other protocols and clients, kindly refer to [Amazon MQ workshop](https://github.com/aws-samples/amazon-mq-workshop) 
 
